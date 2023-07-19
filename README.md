@@ -2,8 +2,6 @@ Visitor Diary is a full-stack web application designed to provide users with an 
 
 MERN technology is a popular and powerful stack for developing web applications, especially those that require real-time interactions, complex user interfaces, and efficient data management. Here are some additional details about the MERN stack:
 
-MongoDB (M):
-
 MongoDB is a NoSQL, document-oriented database that stores data in JSON-like documents. It is highly scalable, flexible, and can handle large volumes of data.
 Its schema-less nature allows developers to store data without predefining a rigid structure, making it suitable for applications with evolving data requirements.
 MongoDB's query language supports powerful operations like indexing, aggregation, and geospatial queries, which is advantageous for location-based applications like Visitor Diary.
