@@ -5,17 +5,14 @@ MERN technology is a popular and powerful stack for developing web applications,
 MongoDB is a NoSQL, document-oriented database that stores data in JSON-like documents. It is highly scalable, flexible, and can handle large volumes of data.
 Its schema-less nature allows developers to store data without predefining a rigid structure, making it suitable for applications with evolving data requirements.
 MongoDB's query language supports powerful operations like indexing, aggregation, and geospatial queries, which is advantageous for location-based applications like Visitor Diary.
-Express.js (E):
 
 Express.js is a popular backend framework for Node.js that simplifies the development of web applications and APIs.
 It provides a robust set of features and middleware, making it easy to handle HTTP requests, route handling, and error management.
 Express.js is known for its minimalistic design, which allows developers to build scalable and efficient server-side applications.
-React.js (R):
 
 React.js is a widely-used JavaScript library for building user interfaces and frontend components.
 Its component-based architecture promotes code reusability and maintainability, enabling developers to create complex UIs with ease.
 React.js efficiently manages the virtual DOM, updating only the necessary components when data changes, which results in improved performance and responsiveness.
-Node.js (N):
 
 Node.js is a server-side JavaScript runtime environment that enables the execution of JavaScript code outside of a web browser.
 It uses an event-driven, non-blocking I/O model, which makes it highly scalable and ideal for building real-time applications that require handling multiple concurrent connections.
